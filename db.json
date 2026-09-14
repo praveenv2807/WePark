@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A-01",
+    "status": "available",
+    "vehicleNumber": null
+  },
+  {
+    "id": "A-02",
+    "status": "booked",
+    "vehicleNumber": "KA-01-MJ-1029"
+  },
+  {
+    "id": "A-03",
+    "status": "available",
+    "vehicleNumber": null
+  },
+  {
+    "id": "B-01",
+    "status": "available",
+    "vehicleNumber": null
+  },
+  {
+    "id": "B-02",
+    "status": "booked",
+    "vehicleNumber": "MH-12-PQ-8842"
+  },
+  {
+    "id": "B-03",
+    "status": "available",
+    "vehicleNumber": null
+  }
+]
