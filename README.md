@@ -1,4 +1,4 @@
-# WePark — Smart & Seamless Parking System
+# WePark —  Smart & Seamless Parking System
 
 A full-stack, mobile-responsive parking slot reservation platform designed with an **Apple VisionOS / Glassmorphism UI aesthetic**. Built with a Node.js/Express backend, native Vanilla JavaScript frontend, and cloud-based Supabase PostgreSQL integration for persistent user data storage.
 
