@@ -47,3 +47,5 @@ Open in browser:
 Navigate to http://localhost:5000.
 API EndpointsMethodEndpointDescriptionGET/api/slotsFetch real-time availability of all parking slots.POST/api/bookReserve an available slot with a vehicle license plate.POST/api/loginRegister/upsert user details into the Supabase database.
 
+i used supabase to make the database more efficient and proceessed.
+
